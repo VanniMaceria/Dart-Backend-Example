@@ -1,4 +1,4 @@
-//questa route gestisce PUT, POST e DELETE sulla singola chitarra
+//questa route gestisce GET, PUT, POST e DELETE sulla singola chitarra
 import 'package:dart_frog/dart_frog.dart';
 
 Response onRequest(RequestContext context) {
