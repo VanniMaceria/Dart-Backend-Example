@@ -1,7 +1,7 @@
 class Guitar {
-  final String nome;
-  final String urlImmagine;
-  final String descrizione;
+  final String? nome;
+  final String? urlImmagine;
+  final String? descrizione;
 
   Guitar({
     required this.nome,

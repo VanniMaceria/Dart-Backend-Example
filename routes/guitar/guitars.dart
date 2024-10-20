@@ -2,8 +2,8 @@
 import 'dart:convert';
 
 import 'package:dart_frog/dart_frog.dart';
-import '../models/guitar.dart';
-import '../utils/data_initializer.dart';
+import '../../models/guitar.dart';
+import '../../utils/data_initializer.dart';
 
 DataInitializer dataInitializer = DataInitializer();
 
