@@ -3,14 +3,22 @@ import 'dart:io';
 import '../models/guitar.dart';
 
 class DataInitializer {
-  //lista per memorizzare le chitarre
+  // Lista per memorizzare le chitarre
   List<Guitar> _guitars = [];
   static const String _jsonFilePath = 'assets/mark_guitars.json';
 
   DataInitializer();
 
+  // Metodo per ottenere la lista delle chitarre
   List<Guitar> getGuitars() {
     return this._guitars;
+  }
+
+  // Metodo per aggiungere una nuova chitarra
+  void addGuitar(Guitar newGuitar) {
+    // Aggiunge la nuova chitarra alla lista
+    _guitars.add(newGuitar);
+    print('Guitar added: ${newGuitar.nome}');
   }
 
   // Funzione principale per caricare le chitarre
@@ -19,7 +27,7 @@ class DataInitializer {
   }
 
   Future<void> initialize() async {
-    await loadInitialData(); //carica i dati all'avvio dell'app
+    await loadInitialData(); // Carica i dati all'avvio dell'app
   }
 
   // Funzione per caricare le chitarre dal file JSON
