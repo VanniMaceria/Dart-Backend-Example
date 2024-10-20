@@ -83,8 +83,91 @@
       "nome": "1953 Gibson Super 400 CES",
       "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2022/10/Gibson-Super-400-CES.jpg",
       "descrizione": "Mark used this guitar on the songs “Fade to Black” and “On Every Street” from the 1991 album, and occasionally live on “Your Latest Trick”."
+    },
+    {
+      "nome": "1954 Fender Stratocaster",
+      "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2018/08/1954-Fender-Stratocaster-stock.jpg",
+      "descrizione": "Mark got this guitar from Paul Kennerly (an English singer-songwriter, and producer) sometime in the mid-90s. The interesting thing about this particular guitar is that it’s supposedly the 59th Stratocaster ever made, based on its serial number #059.\nMark used the guitar on “I’m The Fool” from the 1996 album Golden Heart, “The Fish and the Bird” from Kill To Get Crimson, and ”I Used to Could” from Privateering."
+    },
+    {
+      "nome": "1958 Gibson Les Paul Standard",
+      "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2022/10/Mark-Knopfler-1958-Gibson-Les-Paul-Standard.jpg",
+      "descrizione": "Mark purchased this guitar sometime in the mid-90s. It was the first vintage Les Paul that he ever bought, and it quickly replaced the 80s reissue that he used during the recording of the Brothers in Arms album."
+    },
+    {
+      "nome": "Pensa MK-2",
+      "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2022/10/Pensa-MK-2-guitar-Knopfler.jpg",
+      "descrizione": "This is the second version of the MK model produced by Pensa. Mark received the first prototype sometime prior to the recording of the Golden Heart album in 1996. A different guitar followed after this one in the late 90s and was a more finished version of the final product.\nThis first prototype guitar was produced by Rudy Pensa (John Suhr parted ways with Pensa in 1991, so he was not involved in making this guitar). It featured a mahogany back with a flamed koa top finished in a dark shade of orange, and three single-coil pickups – allegedly custom-made by Lindy Fralin. Mark used the guitar during the Golden Heart tour in 1996 on “Father and Son” and on “Golden Heart”."
+    },
+    {
+      "nome": "1959 Gibson Les Paul Standard",
+      "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2022/10/1959-Gibson-Les-Paul-Standard-Mark-Knopfler.jpg",
+      "descrizione": "This is Mark’s second vintage Gibson Les Paul guitar. Although considered by many to be the more desirable of the two, Mark actually uses his ’58 Les Paul more often than this one. It’s not clear when exactly he bought this guitar, but presumably, it was around the same time as his other Les Paul – so mid to late 90s."
+    },
+    {
+      "nome": "1954 Fender Telecaster",
+      "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2022/10/1954-Fender-Telecaster.jpg",
+      "descrizione": "This guitar is allegedly one of Mark’s favorites. He started using it in the early 90s with Notting Hillbillies and still plays it occasionally nowadays."
+    },
+    {
+      "nome": "1959 Gibson ES-335TDN",
+      "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2022/10/1959-Gibson-ES-335TDN.jpg",
+      "descrizione": "This guitar was featured in the booklet of the 2000 album Sailing to Philadelphia. It was also seen on some photos taken at Mark’s studio, but coupled with another almost identical ES-335 – presumably also from the late 50s."
+    },
+    {
+      "nome": "1963 Danelectro DC-1",
+      "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2022/10/Danelectro-DC-1.jpg",
+      "descrizione": "Mark used this guitar on “Miss You Blue” from the 2012 album Privateering, and on “Donegan’s Gone” from the 2004 album Shangri-La."
+    },
+    {
+      "nome": "Silvertone 1452 Hornet",
+      "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2022/10/Silvertone-1452-Hornet-Standard.jpg",
+      "descrizione": "Mark used this guitar extensively on the 2004 album “Shangri-La”, both in the studio and on the live tour. It can be heard on songs such as “Boom Like That”, “Stand Up Guy”, and “Don’t Crash the Ambulance”."
+    },
+    {
+      "nome": "1957 Gretsch 6120 Chet Atkins",
+      "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2022/10/1957-Grestch-6120-Chet-Atkins.jpg",
+      "descrizione": "Mark was seen playing this guitar a few times on “Red Staggerwing” live. Also, based on the photos that are floating around the internet, he has at least a few of these guitars in his studio, so it seems that it’s a model that he particularly likes.\nAlso, in an interview with Vintage Guitar magazine in 2014, he basically confirmed that he enjoys playing the guitar, or at least he did at that time."
+    },
+    {
+      "nome": "Pensa MK-90",
+      "urlImmagine": "https://rudysmusic.com/cdn/shop/files/g-989_3723x3723.jpg?v=1722960055",
+      "descrizione": "This is one of Mark’s more recent guitars. It’s basically a modified version of the Pensa MK model with a blue finish, and P-90 style pickups (therefore the MK-90 name). Mark was seen with the guitar in the Guitar Stories documentary, and he used it occasionally live during the Privateering tour on “Kingdom of Gold”."
+    },
+    {
+      "nome": "1920s National Tricone",
+      "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2022/10/National-Tricone.jpg",
+      "descrizione": "Mark bought this guitar sometime in the late 60s on Exchange and Mart in Wales. It was his first resonator guitar."
+    },
+    {
+      "nome": "Gibson Chet Atkins CE",
+      "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2022/10/Gibson-Chet-Atkins-CE.jpg",
+      "descrizione": "Mark played this guitar occasionally live in the 80s. It was seen on the Love over Gold tour, during which he used it on “Private Investigations” and “Love over Gold”. On the Brothers in Arms tour, it was also used on “Your Latest Trick”."
+    },
+    {
+      "nome": "1935 Martin D-18",
+      "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2022/10/Martin-D-18-Mark-Knopfler.jpg",
+      "descrizione": "This is one of Mark’s favorite acoustic guitars, at least according to an interview he gave with VintageGuitar. The guitar was a present from Paul Kennerly."
+    },
+    {
+      "nome": "1938 Gibson Advanced Jumbo",
+      "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2022/10/1938-Gibson-Advanced-Jumbo.jpg",
+      "descrizione": "Mark used this guitar on “Speedway at Nazareth” and “Wanderlust” from the 2000 album Sailing to Philadelphia, and on “Before Gas and TV” and “Remembrance Day” from the 2009 album Get Lucky."
+    },
+    {
+      "nome": "Martin HD-40MK",
+      "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2022/10/Martin-HD-40MK.jpg",
+      "descrizione": "This is the first Mark Knopfler signature Martin, made for a short period of time in 2002. A total of around 250 guitars were made\nThe guitar featured an Alpine Spruce top, Indian Rosewood back and sides, Mahogany neck, and Ebony fingerboard 42-style Snowflake inlays and Mark’s signature between the 19th and 20th frets.\nMark used this guitar for the recording of the entirety of The Ragpicker’s Dream album in 2002."
+    },
+    {
+      "nome": "Martin 000-40S “Ragpicker’s Dream”",
+      "urlImmagine": "https://www.guitar-auctions.co.uk/public/images/Sales/79/504.JPG",
+      "descrizione": "This is the second Mark Knopfler signature line from Martin. Only 155 of these guitars were made in the original production run in 2006. The guitar was named after Mark Knopfler’s 2002 solo album, Ragpicker’s Dream.\nMark used the guitar occasionally on stage on “Privateering” and “Monteleone”. It’s unknown whether he used it in the studio at all."
+    },
+    {
+      "nome": "2008 Monteleone Isabella",
+      "urlImmagine": "https://www.groundguitar.com/wp-content/uploads/2022/10/Mark-Knopfler-Monteleone-Isabella-mock-up.jpg",
+      "descrizione": "This Monteleone was made for Mark by John Monteleone, a guitar builder from New York. Mark used it for recording “Monteleone” on the Get Lucky album. He often referred to this guitar as one of the most beautiful guitars he ever held in his hands."
     }
-
-
   ]
   
