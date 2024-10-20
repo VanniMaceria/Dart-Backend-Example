@@ -9,7 +9,7 @@
 [very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
 [very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
 
-A small Backend based on RestAPI written in Dart using Frog framework. By making requests to the server you can obtain information in json format about Mark Knopfler's guitars 🎸
+A small Backend based on RestAPI written in Dart using Frog framework. By making requests to the server you can obtain informations in json format about Mark Knopfler's guitars 🎸
 
 ![dart_frog_logo_black](https://github.com/user-attachments/assets/746b1dc0-8ec4-4e24-b823-f59b94e68d56)
 
