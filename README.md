@@ -1,4 +1,4 @@
-# mark_knofler_guitars_api
+# mark_knopfler_guitars_api
 
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
