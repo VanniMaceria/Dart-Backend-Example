@@ -1,3 +1,4 @@
+//questa route gestisce il GET, PUT, DELETE delle singole chitarre in base al nome
 import 'dart:convert';
 import 'package:dart_frog/dart_frog.dart';
 import '../../models/guitar.dart';
