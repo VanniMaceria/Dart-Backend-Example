@@ -1,4 +1,4 @@
-//questa route gestisce il GET globale delle chitarre
+//questa route gestisce il GET ed il POST globale delle chitarre
 import 'dart:convert';
 
 import 'package:dart_frog/dart_frog.dart';
